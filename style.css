@@ -88,7 +88,7 @@
 }
 .child{
     zoom: 39%;
-    margin-left: 13%;
+    margin-left: 10%;
 }
 .since{
     color: orange;
@@ -109,6 +109,7 @@
 #lorem{
     text-align: right;
     transform: translateY(-235%);
+    margin-right: 7%;
 }
 .words{
     text-align: right;
@@ -448,14 +449,17 @@ background-color: white;
     font-size: x-large;
 }
 .footer{
-    display: flex;
+    display: flex; 
     background-color: rgb(43, 41, 41);
-     justify-content: space-evenly; 
-     gap: 20%;
+    justify-content: space-between;
+     
+
 
 }
 .foot{
     display: flex;
+    margin-left: 30%;
+    gap: 3%;
 
 }
 .number{
@@ -471,5 +475,18 @@ background-color: white;
     margin-right: 10px;
 }
 .twitter{
-    zoom: 55%;
+    height: 5%;
+}
+.facebook{
+    height: 5%;
+}
+.linkedin{
+    height: 5%;
+}
+.youtube{
+    height: 5%;
+
+}
+.icons{
+    margin-top: 3%;
 }
