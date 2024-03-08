@@ -1,0 +1,475 @@
+#nav{
+    border: solid white 1px;
+    background-color: white;
+}
+#hello-email{
+
+
+}
+#email-icon{
+    zoom: 20%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+#email1{
+    display: flex;
+   
+}
+.phone{ 
+    zoom: 20%;
+    margin-bottom: 2%;
+
+
+}
+#phoneline{
+    margin-left: 70%;
+    
+}
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: smaller;
+}
+.home{
+    color: orange;
+}
+.smooth-moving{
+    background-image: url(/Images/home-5574911_1280.jpg);
+    height: 550px;
+
+}
+.smooth{
+    font-size: medium;
+    text-align: center;
+    transform: translateY(1350%);
+    color: blue;
+
+}
+.strive{
+    font-size: 585%;
+    text-align: center;
+    transform: translateY(150px);
+    color: darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: bolder;
+
+} 
+.button{
+    padding: 15px 20px;
+    background-color: orange;
+    border: solid orange 1px;
+    font-size: 35%;
+    font-weight: bolder;
+    color: white;
+    margin-left: 50%;
+    transform: translateY(175%);
+
+}
+.learn{
+    color: orange;
+    font-size: 65%;
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-top: 4%;
+
+}
+.moving{
+    color: black;
+    font-size: 215%;
+    font-weight: bolder;
+
+
+}
+.couple{
+    zoom:9%;
+    border: none;
+
+
+}
+.child{
+    zoom: 39%;
+    margin-left: 13%;
+}
+.since{
+    color: orange;
+    font-size: 65%;
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-top: 4%
+}
+.year{
+    font-size: x-large;
+    font-weight:25%;
+
+}  
+.lorem{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+#lorem{
+    text-align: right;
+    transform: translateY(-235%);
+}
+.words{
+    text-align: right;
+    margin-right: 35%;
+    transform: translateY(35%)
+}
+.ipsum{
+    display: flex;
+    justify-content: space-evenly;
+}
+.logo1{
+    zoom: 45%;
+}
+.logo2{
+    zoom: 60%;
+}
+.logo3{
+    zoom: 60%;
+}
+.logo4{
+    zoom: 60%;
+}
+.logo5{
+    zoom: 60%;
+}
+.services{
+    color: darkorange;
+    font-size: 65%;
+    text-decoration: underline;
+    font-weight: bolder;
+    margin-top: 6%;
+    text-align: center;
+}
+.what{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+
+}
+.packing{
+    background-color: orangered;
+    border-radius: 90%;
+    padding: 15px;
+
+}
+.storage{
+    background-color: orangered;
+    border-radius: 90%;
+    padding: 15px;
+}
+.transport{
+    background-color: orangered;
+    border-radius: 90%;
+    padding: 15px;
+}
+.insurance{
+    background-color: orangered;
+    border-radius: 90%;
+    padding: 15px
+}
+.read{
+    color: darkorange;
+    font-size: 65%;
+    text-decoration: underline;
+    font-weight: bolder;
+
+}
+.about{
+    display: flex;
+    justify-content: space-evenly;
+}
+#packing{
+background-color: white;
+}
+#storage{
+    background-color: rgb(97, 97, 236);
+    padding: 35px;
+}
+.reader{
+    color: white;
+    font-size: 65%;
+    text-decoration: underline;
+    font-weight: bolder;
+
+}
+.movingimg{
+    zoom: 2%;
+    position: absolute;
+}
+.play{
+    zoom: 60%;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 10%;
+}
+.video{
+    position:relative;
+}
+#click{
+    margin-top: 5%;
+}
+.helping{
+    color: black;
+    font-size: 215%;
+    font-weight: bolder;
+}
+#click{
+    display: flex;
+    justify-content: space-evenly;
+}
+.check{
+    transform: translateY(19%);
+}
+.packers{
+    zoom: 40%;
+    
+}
+#why{
+    display: flex;
+    justify-content: space-evenly;
+}
+.choose{
+    color: darkorange;
+    font-size: 65%;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.leading{
+    color: black;
+    font-size: 215%;
+    font-weight: bolder;
+}
+.sed{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+
+}
+.tick{
+    zoom: 65%;
+    height: 12%;
+}
+#hesitate{
+    color: darkgrey;
+}
+.book{
+    color: orange;
+    text-decoration: underline;
+}
+#lower{
+    display: flex;
+    margin-left: 30%;
+}
+#couple-two{
+    position: relative;
+    margin-left: 30%;
+    
+}
+.couple-repeat{
+    zoom: 45%;
+    position: absolute;
+    filter: brightness(40%);
+    width:70%;
+    
+}
+.play-two{
+    position: absolute;
+    transform: translateX(350%);
+    margin-top: 15%;
+    zoom: 115%;
+}
+#quote-request{
+    margin-top: 33%;
+    display: flex;
+    margin-left: 18%;
+    
+}
+.us{
+    color: white;
+    text-decoration: underline;
+    margin-left: 25%;
+    font-size: small;
+}
+.quote{
+    background-color: orange;
+    padding-right: 65px;
+    padding-left: 85px;
+    padding-bottom: 25px;
+    
+}
+.send{
+    padding: 15px 20px;
+    background-color: orange;
+    font-size: 55%;
+    color: white;
+    border: solid orange 1px;
+    font-weight: bolder;
+
+}
+.request{
+    background-color: blue;
+    display: flex;
+    padding-left: 55px;
+    padding-right: 65px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    gap: 10%;
+    
+}
+.free{
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+    margin-left: 35%;
+    margin-bottom: 25%;
+}
+.label{
+    color: white;
+    font-size: small;
+}
+.testimonials{
+    color: orange;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 65%;
+}
+.say{
+    text-align: center;
+    font-size: 215%;
+    font-weight: bolder;
+}
+.kendi{
+    color: orange;
+}
+.customer{
+    color: grey;
+}
+.moling{
+    color: grey;
+}
+#quotations{
+    display: flex;
+    justify-content: space-evenly;
+}
+.black{
+    zoom: 8%;
+    border: solid transparent;
+    border-radius: 50%;
+}
+.newspaper{
+    color: orange;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 6%;
+    font-size: 65%;
+}
+.join{
+    text-align: center;
+    font-size: 215%;
+    font-weight: bolder;
+
+}
+.mail{
+    color: grey;
+    font-weight: bold;
+
+}
+#sub{
+    padding: 15px 20px;
+    background-color: orange;
+    font-size: 55%;
+    color: white;
+    border: solid orange 1px;
+    font-weight: bolder;
+}
+.address{
+    display: flex;
+    justify-content: space-evenly;
+}
+.one{
+    background-image: url(/Images/move-2481718_640.jpg);
+    width: 300px;
+    height: 350px;
+    
+}
+#one{
+    text-align: center;
+    margin-top: 25%;
+}
+.two{
+    background-image: url(/Images/relocation.jpg);
+    width: 300px;
+    height: 350px;
+}
+#two{
+    text-align: center;
+    margin-top: 25%;
+}
+.three{
+    background-image: url(/Images/packers-and-movers-8607620_1280.jpg);
+    width: 300px;
+    height: 350px;
+}
+#three{
+    text-align: center;
+    margin-top: 25%;
+    color: white;
+}
+.customers{
+    color: gray;
+}
+.photos{
+    display: flex;
+    justify-content: space-evenly;
+}
+#discover{
+    padding: 2px 10px;
+    background-color: black;
+    font-size: 55%;
+    color: white;
+    border: solid orange 1px;
+    font-weight: bolder;
+    margin-top: 2%;
+}
+.orange{
+    background-color: orange;
+    margin-top: 7%;
+    padding-bottom: 75px;
+}
+.sub-orange{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15%;
+}
+.over{
+    color: white;
+    font-size: x-large;
+}
+.footer{
+    display: flex;
+    background-color: rgb(43, 41, 41);
+     justify-content: space-evenly; 
+     gap: 20%;
+
+}
+.foot{
+    display: flex;
+
+}
+.number{
+    color: white;
+    margin-left: 15px;
+
+}
+.explore{
+    color: white;
+}
+.legal{
+    color: white;
+    margin-right: 10px;
+}
+.twitter{
+    zoom: 55%;
+}
